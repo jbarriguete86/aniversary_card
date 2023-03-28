@@ -1,0 +1,108 @@
+h1 {
+    color: #ff4c68;
+}
+
+img {
+    width: 45%;
+    border-radius: 0%;
+    border-style: double;
+    border-width: 4px;
+}
+nav {
+    margin-bottom: 10px;
+}
+
+hr {
+    border-style: none;
+    border-top: 9px dotted black;
+    margin: 20px auto;
+    width: 20%;
+
+}
+
+.slide {
+    width: 500px;
+    
+}
+
+.main-img {
+    border-radius: 50%;
+    width:450px;
+}
+.intro-img {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  margin: 5px auto;
+
+}
+
+.display-4 {
+    text-align: center;
+}
+
+.subtitle-img {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.commit-text {
+    width: 50%;
+    float: left;
+    text-align: justify;
+    margin-right: 3px;
+}
+.commit-img {
+    float: right;
+}
+
+.fifteen-img{
+ height: 200px;
+ object-fit: cover;
+ object-position: 50% 0%;
+}
+
+.btn-test {
+    border-radius: 15px;
+    background-color: beige;
+}
+
+.spn-test {
+    display: block;
+    padding: 20px;
+    color:coral;
+    font-weight: bold;
+    
+}
+
+.third-div {
+    margin: 50px 0;
+}
+
+.flash{
+    margin: 30px auto;
+}
+
+.flashh3 {
+    text-align: center;
+}
+
+.p-red {
+    color: #ff4c68;
+    font-size: large; 
+    font-weight: bolder;
+}
+
+.blog-footer {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0;
+}
+
+.intr-btn {
+    border-radius: 5px;
+}
+
+.p-footer {
+    margin: 0 20px;
+}
